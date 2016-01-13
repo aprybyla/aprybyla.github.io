@@ -17,6 +17,7 @@ markdown:          kramdown
 highlighter:       pygments
 excerpt_separator: <!--more-->
 permalink:         /articles/:year-:month/:title
+timezone:          Europe/Paris
 
 kramdown:
   auto_ids:       true
