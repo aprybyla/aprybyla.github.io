@@ -14,10 +14,9 @@ url:         # the base hostname & protocol for your site
 #
 timezone:          Europe/Paris
 markdown:          kramdown
-highlighter:       pygments
+highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /articles/:year-:month/:title
-timezone:          Europe/Paris
 
 kramdown:
   auto_ids:       true
@@ -34,11 +33,11 @@ kramdown:
 owner:
   name: Renyuan
   avatar: avatar.jpg
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
+  job: "Full-stack Developer"
+  bio: "Learning, recording, writing and coding."
   email: zourenyuan@gmail.com
   disqus-shortname: renyuanzblog
-  twitter: alittlered3 #username
+  twitter: renyuan814 #username
   facebook: #username
   google:
     plus: #username

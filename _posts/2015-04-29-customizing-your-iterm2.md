@@ -44,12 +44,12 @@ Till now, we have finished the appearance of our iTerm2. Next step, we need to t
 
 We'll come back to the details of that later, but for now, just download the files [.bash_profile](https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.bash_profile), [.bash_prompt](https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.bash_prompt), [.aliases](https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.aliases) into your home directory:
 
-~~~ bash
+{% highlight bash %}
 $ cd ~
 $ curl -O https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.bash_profile
 $ curl -O https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.bash_prompt
 $ curl -O https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.aliases
-~~~
+{% endhighlight %}
 
 With that, open a new terminal tab (Cmd+T) and see the change! Try the list commands: `ls`, `ls -lh` (aliased to `ll`), `ls -lha` (aliased to `la`).
 
