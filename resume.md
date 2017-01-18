@@ -61,7 +61,7 @@ Rails 5 (for sure), Devise (Authentication), minitest (Testing), sidekiq (Backgr
 **[Leonids](https://github.com/renyuanz/leonids)**, Owner
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/renyuanz/leonids" data-icon="octicon-star" data-style="mega" data-count-href="/renyuanz/leonids/stargazers" data-count-api="/repos/renyuanz/leonids#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star renyuanz/leonids on GitHub">Star</a>
+<a class="github-button" href="https://github.com/renyuanz/leonids" data-icon="octicon-star" data-count-href="/renyuanz/leonids/stargazers" data-count-api="/repos/renyuanz/leonids#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star renyuanz/leonids on GitHub">Star</a>
 
 A basic and clean [Jekyll](https://jekyllrb.com/) blog theme.
 
