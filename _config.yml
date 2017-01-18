@@ -5,7 +5,7 @@
 #
 title:       "Renyuan's blog"
 description: 'A backend developer who loves design awesome things. Working at RendezvousCheznous.com in Marseille, France.'
-url:         # the base hostname & protocol for your site
+url:         https://renyuanz.github.io # the base hostname & protocol for your site
 
 #
 ###################################
