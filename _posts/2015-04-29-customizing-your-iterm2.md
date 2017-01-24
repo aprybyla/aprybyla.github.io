@@ -1,17 +1,22 @@
 ---
+title: Customizing Your iTerm2
 layout: post
-title: "Customizing Your iTerm2"
-excerpt: "Just about everything you'll need to customize your iTerm2 or the default Mac OS X Terminal."
+excerpt: Just about everything you'll need to customize your iTerm2 or the default
+  Mac OS X Terminal.
 categories: MAC
-tags: [terminal, iTerm2, OS X]
-date: 2015-04-29T21:32:27+02:00
+tags:
+- terminal
+- iTerm2
+- OS X
+date: '2015-04-29 21:32:27 +0200'
 comments: true
 ---
+
 Since we're going to be spending a lot of time in the command-line, let's install a better terminal than the default one.
 
 #### Are you looking for something like this?
 
-![Preview]({{ site.url }}/img/preview.png)
+![Preview](/img/preview.png)
 
 #### iTerm2
 

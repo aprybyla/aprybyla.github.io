@@ -5,7 +5,8 @@
 #
 title:       "Renyuan's blog"
 description: 'A backend developer who loves design awesome things. Working at RendezvousCheznous.com in Marseille, France.'
-url:         https://renyuanz.github.io # the base hostname & protocol for your site
+# the base hostname & protocol for your site
+url:         https://renyuanz.github.io 
 
 #
 ###################################
@@ -62,3 +63,5 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
+
+gems: [jekyll-admin]
